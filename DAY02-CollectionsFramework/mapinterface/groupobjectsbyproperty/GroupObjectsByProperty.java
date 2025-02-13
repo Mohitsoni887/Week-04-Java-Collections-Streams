@@ -4,7 +4,7 @@ Given a list of Employee objects, group them by their department using a Map<Dep
 Example:
 Employees: [Alice (HR), Bob (IT), Carol (HR)] → Output: HR: [Alice, Carol], IT: [Bob].
 */
-package com.mapinterface.groupobjectsbyproperty;
+package com.mapinterface.groupobjectsbyproperty; 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
