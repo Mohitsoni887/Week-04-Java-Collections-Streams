@@ -1,0 +1,12 @@
+<changelist name="Changes" date="1739610481422" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" />
+  <option name="DESCRIPTION" value="Changes" />
+  <binary>
+    <option name="AFTER_PATH" value="src/DAY03-JavaStreams/src/main/resources/NewImage.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/NewImage.jpg" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value="src/DAY03-JavaStreams/src/main/resources/OriginalImage.jpg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/OriginalImage.jpg" />
+  </binary>
+</changelist>
